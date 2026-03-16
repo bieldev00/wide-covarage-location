@@ -1,0 +1,157 @@
+* {
+    font-family: poppins, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* inclui padding e border na largura e altura totais do elemento */
+}
+
+header {
+    margin: 47px 0 0 42px;
+}
+
+.link-header {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 21px;
+    text-align: center;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 32px;
+    letter-spacing: 0.875px;
+}
+
+.button-header {
+    background: #6FBF44;
+    border: none;
+    border-radius: 6px; /* propriedade CSS que deixa a borda arredondada */
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 29px;
+    /* serve para definir a altura da linha de texto, controlando o espaço vertical entre as linhas em um elemento */
+    color: #ffffff;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+img {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 85px;
+    width: 493px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+
+.button-main {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+}
+
+
+/* também podíamos no lugar do button-main, criar uma classe chamada link-button e aplicar essa classe em uma tag <a> */* {
+    font-family: poppins, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* inclui padding e border na largura e altura totais do elemento */
+}
+
+header {
+    margin: 47px 0 0 42px;
+}
+
+.link-header {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 21px;
+    text-align: center;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 32px;
+    letter-spacing: 0.875px;
+}
+
+.button-header {
+    background: #6FBF44;
+    border: none;
+    border-radius: 6px; /* propriedade CSS que deixa a borda arredondada */
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 29px;
+    /* serve para definir a altura da linha de texto, controlando o espaço vertical entre as linhas em um elemento */
+    color: #ffffff;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+img {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 85px;
+    width: 493px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+
+.button-main {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+}
+
+
+/* também podíamos no lugar do button-main, criar uma classe chamada link-button e aplicar essa classe em uma tag <a> */
